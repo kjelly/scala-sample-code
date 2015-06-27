@@ -1,4 +1,4 @@
-name := "project_template"
+name := "scala sample code"
 
 scalaVersion := "2.11.4"
 
