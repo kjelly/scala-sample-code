@@ -1,3 +1,4 @@
+package tw.blackwhite.test
 import collection.mutable.Stack
 import collection.immutable.Queue
 import org.scalatest._
