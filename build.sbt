@@ -6,6 +6,8 @@ libraryDependencies += "com.jsuereth" %% "scala-arm" % "1.4"
 
 libraryDependencies += "org.scalatest" %% "scalatest" % "2.1.7" % "test"
 
+libraryDependencies += "org.apache.commons" % "commons-compress" % "1.9"
+
 scalariformSettings
 
 
