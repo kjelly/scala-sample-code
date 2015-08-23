@@ -8,6 +8,8 @@ libraryDependencies += "org.scalatest" %% "scalatest" % "2.1.7" % "test"
 
 libraryDependencies += "org.apache.commons" % "commons-compress" % "1.9"
 
+libraryDependencies += "org.scala-lang" % "scala-compiler" % scalaVersion.value
+
 scalariformSettings
 
 
